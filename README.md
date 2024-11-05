@@ -13,7 +13,7 @@ Implement the basic Snake game, and add the following features:
 
 #### Environments
 * Windows 10
-* SFML2.5
+* SFML 2.5.1
 * cmake 3.25.2
 * g++ (MinGW-W64) 13.0.1
 
@@ -38,7 +38,7 @@ Implement the basic Snake game, and add the following features:
 
 ![](show/snake.png)
 
-##### Reactions (to different fruits):![](-1.png)![](0.png)![](1.png)![](2.png)![](3.png)
+##### Reactions (to different fruits):![](show/-1.png)![](show/0.png)![](show/1.png)![](show/2.png)![](show/3.png)
 
 * Gameover Page
 
