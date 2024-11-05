@@ -23,33 +23,33 @@ Implement the basic Snake game, and add the following features:
  
 * Menu Page
 
-![](alpha.png)
+![](show/alpha.png)
 
 * Config Page
 
-![](config_before.png)
+![](show/config_before.png)
 
-![](config_after.png)  
+![](show/config_after.png)  
 
 * Map & Snake
 
-![](bg_grid.png)
+![](show/bg_grid.png)
 
 
-![](snake.png)
+![](show/snake.png)
 
 ##### Reactions (to different fruits):![](-1.png)![](0.png)![](1.png)![](2.png)![](3.png)
 
 * Gameover Page
 
-![](omega.png)
+![](show/omega.png)
 
 * Hard Mode:
 
-![](hard.png)
+![](show/hard.png)
 
 * Score Record:
 
-![](score.png)
+![](show/score.png)
 
-![](highest.png)
+![](show/highest.png)
